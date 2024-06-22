@@ -5,7 +5,7 @@
 👨‍💻 I am Leonardo Faggiani 😃. I am from Argentina. I am Software Developer and enthusiast passionate about innovating, solving real-world problems and learn about new things.
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-faggiani-2ba30859) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leofaggiani@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leonardofaggiani@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-faggiani-2ba30859) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leofaggiani@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:leonardofaggiani@hotmail.com)
 
 ## 💻 My Tech Stack
 I going to split my **Tech Stack** in two parts, one of them is my professional stack and the other is my "hobby" stack that I use them when I need to learn somethings new.
