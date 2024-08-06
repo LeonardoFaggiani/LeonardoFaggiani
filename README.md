@@ -25,3 +25,4 @@ I going to split my **Tech Stack** in two parts, one of them is my "professional
 
 * 🎮 [JustAnotherLobby](https://github.com/LeonardoFaggiani/JustAnotherLobby): I created a multiplayer lobby with Unreal Engine 5 C++ & Blueprints. I utilized plugins such as **CommonUI** and **AdvancedSteamSessions**, It has many features like **chat system**, **real loading screem**, **ready status**, **host a game**, **find games**, **kick player list**, etc.
 * 🌐 [JustAnotherPage](https://github.com/LeonardoFaggiani/justanotherpage): Its a simple landing page where I can show my proof of concepts and talk a bit about me 😀.
+* 👁️ [JustAnotherAlpr](https://github.com/LeonardoFaggiani/JustAnotherAlpr): Artificial intelligence model trained with 100% Argentinian license plate images to detect license plates, this POC was developed with yolov4-tiny, darknet and python.
